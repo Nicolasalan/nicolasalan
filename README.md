@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Nicolasalan/nicolasalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nicolas Alan</h1>
 
-Here are some ideas to get you started:
+- 🔥 I develop computer vision and artificial intelligence programs applied to robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [RoboFEI](https://github.com/robofei-home)
+
+- ▶️ I graduate from the FEI University Center [FEI](https://portal.fei.edu.br/)
+
+- 💬 Study about **ROS, Vscode, Matlab, C++, Python, Docker**
+
+- 🇧🇷 **I live in Brazil** 
+
+- 📫 **How to reach me -> nicolasalangrotti03@gmail.com**
