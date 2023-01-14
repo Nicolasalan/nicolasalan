@@ -7,7 +7,7 @@
 
 - ▶️ I graduate from the FEI University Center [FEI](https://portal.fei.edu.br/)
 
-- 💬 Study about **ROS, Matlab, C++, Python, Docker, deep Learning**
+- 💬 Study about **ROS, Matlab, C++, Python, Docker, deep learning**
 
 - 🇧🇷 **I live in Brazil** 
 
