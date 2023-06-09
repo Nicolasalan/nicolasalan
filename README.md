@@ -5,7 +5,7 @@
 
 🔭 I am currently working at RoboFEI, current world champion and five times Latin American champion, as a leader in the field of computer vision and mobile navigation.
 
-▶️ I'm studying robot engineering at FEI (Fundação Educacional Ignaiana), the first robot engineering course in Brazil.
+▶️ I'm studying robot engineering at FEI (Fundação Educacional Inaciana), the first robot engineering course in Brazil.
 
 💬 Study about ROS, C++, Python, Docker, deep learning, Robot Navigation, Deep Reinforcement Learning.
 
