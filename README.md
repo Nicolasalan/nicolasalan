@@ -7,7 +7,7 @@
 
 ▶️ I'm studying robot engineering at FEI (Fundação Educacional Inaciana), the first robot engineering course in Brazil.
 
-💬 Study about ROS, C++, Python, Docker, deep learning, Robot Navigation, Deep Reinforcement Learning.
+💬 Study about Deep Reinforcement Learning.
 
 🇧🇷 I live in Brazil in São Paulo.
 
