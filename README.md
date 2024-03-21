@@ -11,4 +11,4 @@
 
 🇧🇷 I live in Brazil in São Paulo.
 
-📫 How to reach me -> nicolasalangrotti03@gmail.com
+📫 How to reach me -> grottimeireles@gmail.com
